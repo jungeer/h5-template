@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <a href="http://192.168.16.20/fe-project-template/h5-template">H5项目模板</a>
+    <a href="https://github.com/jungeer/h5-template">H5项目模板</a>
   </h1>
 </div>
 
